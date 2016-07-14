@@ -1,43 +1,43 @@
 <resources>
     <string name="app_name">Simple Calendar</string>
-    <string name="undo">Undo</string>
+    <string name="undo">Rückgängig</string>
 
     <!-- Event -->
-    <string name="event">Event</string>
-    <string name="edit_event">Edit Event</string>
-    <string name="new_event">New Event</string>
-    <string name="save">Save</string>
-    <string name="delete">Delete</string>
-    <string name="title_empty">Title cannot be empty</string>
-    <string name="end_before_start">The event cannot end earlier than it starts</string>
-    <string name="start_in_past">You cannot schedule events in the past</string>
-    <string name="event_added">Event added successfully</string>
-    <string name="event_updated">Event updated successfully</string>
-    <string name="reminder">Reminder</string>
-    <string name="off">Off</string>
-    <string name="at_start">At start</string>
-    <string name="minutes_before">Minutes before</string>
+    <string name="event">Ereignis</string>
+    <string name="edit_event">Ereignis bearbeiten</string>
+    <string name="new_event">Neues Ereignis</string>
+    <string name="save">Speichern</string>
+    <string name="delete">Löschen</string>
+    <string name="title_empty">Titel kann nicht leer sein</string>
+    <string name="end_before_start">Das Ereignis kann nicht enden bevor es angefangen hat</string>
+    <string name="start_in_past">Du kannst Ereignisse nicht in der Vergangenheit planen</string>
+    <string name="event_added">Ereginis erfolgreich hinzugefügt</string>
+    <string name="event_updated">Ereignis erfolgreich aktualisiert</string>
+    <string name="reminder">Erinnerung</string>
+    <string name="off">Aus</string>
+    <string name="at_start">Beim Start</string>
+    <string name="minutes_before">Minuten vorher</string>
 
     <!-- Day details -->
     <string name="details">Details</string>
-    <string name="title">Title</string>
+    <string name="title">Titel</string>
     <string name="start">Start</string>
-    <string name="end">End</string>
-    <string name="description">Description</string>
+    <string name="end">Ende</string>
+    <string name="description">Beschreibung</string>
 
     <!-- About -->
-    <string name="about">About</string>
-    <string name="website">More simple apps and source code at:\nhttp://simplemobiletools.com</string>
-    <string name="email_label">Send your feedback or suggestions to:</string>
+    <string name="about">Über</string>
+    <string name="website">Mehr simple Apps und Quellcode hier:\nhttp://simplemobiletools.com</string>
+    <string name="email_label">Sende dein Feedback oder Vorschläge (bitte auf Englisch) an:</string>
     <string name="email">hello@simplemobiletools.com</string>
-    <string name="third_party_licences_underlined"><u>Third party licences</u></string>
-    <string name="rate_us_underlined"><u>Rate us in the Play Store</u></string>
-    <string name="follow_us">Follow us:</string>
+    <string name="third_party_licences_underlined"><u>Third party Lizenzen</u></string>
+    <string name="rate_us_underlined"><u>Bewerten Sie uns im Play Store</u></string>
+    <string name="follow_us">Folgen Sie uns:</string>
     <string name="copyright">v %1$s\nCopyright © Simple Mobile Tools %2$d</string>
 
     <!--License-->
-    <string name="notice">This app uses the following third party libraries to make my life easier. Thank you.</string>
-    <string name="third_party_licences">Third party licences</string>
+    <string name="notice">Diese App nutzt die folgenden third party Bibliotheken um mein Leben zu vereinfachen. Danke.</string>
+    <string name="third_party_licences">Third party Lizenzen</string>
     <string name="butterknife_title"><u>Butter Knife (view injector)</u></string>
     <string name="butterknife_text">Copyright 2013 Jake Wharton\n\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the License for the specific language governing permissions and limitations under the License.</string>
     <string name="butterknife_url">https://github.com/JakeWharton/butterknife</string>
