@@ -49,7 +49,7 @@
     <string name="joda_url">https://github.com/JodaOrg/joda-time</string>
 
     <plurals name="events_deleted">
-        <item quantity="one">1 event deleted</item>
-        <item quantity="other">%1$d events deleted</item>
+        <item quantity="one">1 Ereignis gelöscht</item>
+        <item quantity="other">%1$d Ereignisse gelöscht</item>
     </plurals>
 </resources>
