@@ -11,7 +11,7 @@
     <string name="details">Details</string>
     <string name="go_to_today">Gehe zu Heute</string>
     <string name="no_app_for_ics">No app capable of handling .ics files has been found</string>
-    <string name="snooze">Snooze</string>
+    <string name="snooze">Schlummern</string>
 
     <!-- Widget titles -->
     <string name="widget_monthly">Monatskalender</string>
@@ -41,25 +41,25 @@
     <string name="years_raw">Jahre</string>
     <string name="repeat_till">Wiederholen bis</string>
     <string name="forever">unendlich</string>
-    <string name="event_is_repeatable">The event is repeatable</string>
-    <string name="selection_contains_repetition">Die Auswahl enthält Events mit Wiederholungen</string>
+    <string name="event_is_repeatable">Das Ereignis ist wiederholbar</string>
+    <string name="selection_contains_repetition">Die Auswahl enthält Ereignisse mit Wiederholungen</string>
     <string name="delete_one_only">Lösche nur die ausgewählte Wiederholung</string>
     <string name="delete_all_occurrences">Lösche alle Wiederholungen</string>
     <string name="update_one_only">Ändere nur die ausgewählte Wiederholung</string>
     <string name="update_all_occurrences">Ändere alle Wiederholungen</string>
     <string name="repeat_till_date">Wiederhole bis zu bestimmtem Datum</string>
     <string name="repeat_x_times">Wiederhole x Mal</string>
-    <string name="repeat_forever">Repeat forever</string>
+    <string name="repeat_forever">Wiederhole für immer</string>
     <string name="times">Mal</string>
-    <string name="repeat">Widerholung</string>
-    <string name="repeat_on">Repeat on</string>
+    <string name="repeat">Wiederholung</string>
+    <string name="repeat_on">Wiederhole jeden</string>
     <string name="every_day">Täglich</string>
     <string name="selected_days">an ausgewählten Tagen</string>
-    <string name="the_same_day">The same day</string>
-    <string name="the_last_day">The last day</string>
-    <string name="repeat_on_the_same_day">Repeat on the same day each month</string>
-    <string name="repeat_on_the_last_day">Repeat on the last day of the month</string>
-    <string name="repeat_every_m">Repeat every</string>
+    <string name="the_same_day">Am gleichen Tag</string>
+    <string name="the_last_day">Am letzten Tag</string>
+    <string name="repeat_on_the_same_day">Wiederhole am gleichen Tag jeden Monat</string>
+    <string name="repeat_on_the_last_day">Wiederhole jeden letzten Tag des Monats</string>
+    <string name="repeat_every_m">Wiederhole jeden</string>
     <string name="every_m">jeden</string>
     <string name="first_m">ersten</string>
     <string name="second_m">zweiten</string>
@@ -69,7 +69,7 @@
 
     <!-- alternative versions for some languages, use the same translations if you are not sure what this means -->
     <!-- used in repetition, like "Every first Sunday" -->
-    <string name="repeat_every_f">Repeat every</string>
+    <string name="repeat_every_f">Wiederhole jeden</string>
     <string name="every_f">Jeden</string>
     <string name="first_f">ersten</string>
     <string name="second_f">zweiten</string>
@@ -124,8 +124,8 @@
     </plurals>
 
     <!-- Export / Import -->
-    <string name="importing">Importing&#8230;</string>
-    <string name="exporting">Exporting&#8230;</string>
+    <string name="importing">Importiere&#8230;</string>
+    <string name="exporting">Exportiere&#8230;</string>
     <string name="import_events">Importiere Termine</string>
     <string name="export_events">Exportiere Termine</string>
     <string name="import_events_from_ics">Importiere Termine aus .ics Datei</string>
@@ -139,10 +139,10 @@
     <string name="invalid_file_format">Ungültiges Dateiformat</string>
     <string name="default_event_type">Standard-Termin-Typ</string>
     <string name="no_events_for_exporting">Keine Termine zum exportieren gefunden</string>
-    <string name="export_past_events_too">vergagene Termine auch exportieren</string>
-    <string name="include_event_types">Include event types</string>
-    <string name="filename_without_ics">Filename (without .ics)</string>
-    <string name="no_title">No title</string>
+    <string name="export_past_events_too">vergangene Termine auch exportieren</string>
+    <string name="include_event_types">Ereignis-Typen einschließen</string>
+    <string name="filename_without_ics">Dateiname (ohne .ics)</string>
+    <string name="no_title">Kein Titel</string>
 
     <!-- Event details -->
     <string name="title">Titel</string>
@@ -158,27 +158,27 @@
     <string name="edit_type">Typ bearbeiten</string>
     <string name="type_already_exists">Typ mit diesem Namen existiert bereits</string>
     <string name="color">Farbe</string>
-    <string name="regular_event">Regelmässiger Termin</string>
-    <string name="cannot_delete_default_type">Standart-Termin-Typ kann nicht gelöscht werden</string>
+    <string name="regular_event">Regelmäßiger Termin</string>
+    <string name="cannot_delete_default_type">Standard-Termin-Typ kann nicht gelöscht werden</string>
     <string name="select_event_type">Wähle einen Termin Typ</string>
-    <string name="move_events_into_default">Move affected events into the default event type</string>
+    <string name="move_events_into_default">Betroffene Ereignisse in den Standard-Termin-Typ verschieben</string>
     <string name="remove_affected_events">Permanently remove affected events</string>
 
     <!-- Holidays -->
-    <string name="holidays">Holidays</string>
-    <string name="add_holidays">Add holidays</string>
-    <string name="national_holidays">National holidays</string>
-    <string name="religious_holidays">Religious holidays</string>
+    <string name="holidays">Feiertage</string>
+    <string name="add_holidays">Feiertage importieren</string>
+    <string name="national_holidays">Nationalfeiertage</string>
+    <string name="religious_holidays">Religiöse Feiertage</string>
     <string name="holidays_imported_successfully">Holidays have been successfully imported into a new event type</string>
-    <string name="importing_some_holidays_failed">Importing some events failed</string>
-    <string name="importing_holidays_failed">Importing holidays failed</string>
+    <string name="importing_some_holidays_failed">Importieren einiger Feiertage fehlgeschlagen</string>
+    <string name="importing_holidays_failed">Importieren von Feiertagen fehlgeschlagen</string>
 
     <!-- Settings -->
     <string name="manage_event_types">Verwalte Termin-Typen</string>
     <string name="use_24_hour_format">Verwende 24 h Format</string>
     <string name="sunday_first">Sonntag als erster Wochentag</string>
-    <string name="start_day_at">Wochenansicht beginnt am</string>
-    <string name="end_day_at">Wochenansicht endet am</string>
+    <string name="start_day_at">Wochenansicht beginnt um</string>
+    <string name="end_day_at">Wochenansicht endet um</string>
     <string name="week_numbers">Zeige Kalenderwoche an</string>
     <string name="vibrate">Vibration bei Errinerung</string>
     <string name="reminder_sound">Erinnerungston</string>
@@ -187,10 +187,10 @@
     <string name="no_ringtone_selected">Kein Klingelton gewählt</string>
     <string name="day_end_before_start">Terminbeginn kann nicht vor Terminende liegen</string>
     <string name="google_sync">Google Sync</string>
-    <string name="display_past_events">Display events from the past</string>
-    <string name="snooze_delay">Postpone reminder with Snooze by</string>
+    <string name="display_past_events">Vergangene Ereignisse anzeigen</string>
+    <string name="snooze_delay">Erinnerung mit Schlummern verschieben um</string>
     <string name="widgets">Widgets</string>
-    <string name="cannot_while_offline">You cannot do that while offline.</string>
+    <string name="cannot_while_offline">Sie können dies nicht tun während Sie offline sind.</string>
 
     <!-- Google sync -->
     <string name="google_sync_testing">Google sync is in a testing mode, please be cautions when relying on it. Reporting any feedback at hello@simplemobiletools.com would be appreciated. Thanks!</string>
@@ -201,16 +201,16 @@
     <string name="google_sync_error_fetch">Error fetching Google events: %1$s</string>
 
     <plurals name="minutes">
-        <item quantity="one">%1$d minute</item>
-        <item quantity="other">%1$d minutes</item>
+        <item quantity="one">%1$d Minute</item>
+        <item quantity="other">%1$d Minuten</item>
     </plurals>
 
     <plurals name="hours">
-        <item quantity="one">%1$d hour</item>
-        <item quantity="other">%1$d hours</item>
+        <item quantity="one">%1$d Stunde</item>
+        <item quantity="other">%1$d Stunden</item>
     </plurals>
 
-    <string name="never">Never</string>
+    <string name="never">Niemals</string>
 
     <string name="january">Januar</string>
     <string name="february">Februar</string>
@@ -265,17 +265,17 @@
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Ein einfacher Kalender mit Events, personalisierbaren Widgets ohne Werbung.</string>
     <string name="app_long_description">
-        Ein eigenständiger Kalender. Einfaches Erstellen wiederholender Events sowie Erinnerungen, inkl. optionaler Anzeige der Kalenderwochen.
+        Ein eigenständiger Kalender. Einfaches Erstellen wiederholender Ereignisse sowie Erinnerungen, inkl. optionaler Anzeige der Kalenderwochen.
 
         Enthält ein skalierbares 4x4 Widget, bei welchem die Schriftfarbe sowie die Hintergrundfarbe anpassbar sind.
         
-        Dieser Kalender enthält weder Werbung noch unnötige App-Berechtigungen und ist vollständig Open Source.
+        Dieser Kalender enthält weder Werbung noch unnötige App-Berechtigungen und ist vollständig quelloffen.
 
-        Berechtigung Speicher ist nur für das Importieren von .ics Termin-Dateien notwendig.
+        Die Berechtigung für den Speicher ist nur für das Importieren von .ics Termin-Dateien notwendig.
 
         Internet and Contacts permissions are used only at Google sync.
 
-        Diese App ist Teil einer grösseren Serie von Apps. Diese findet man unter http://www.simplemobiletools.com
+        Diese App ist Teil einer größeren Serie von Apps. Diese findet man unter http://www.simplemobiletools.com
     </string>
 
     <!--
